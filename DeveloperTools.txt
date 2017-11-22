@@ -1,0 +1,6 @@
+- Maria DB *
+- MySQL Workbench *
+- phpStorm *
+- git console *
+- yEd Graph Editor
+- androidStudio
